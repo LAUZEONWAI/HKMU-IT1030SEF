@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>贪吃蛇游戏</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        canvas {
+            background-color: #f0f0f0;
+            margin: 20px 0;
+        }
+        #restartButton {
+            display: none; /* 初始时不显示重新开始按钮 */
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="snakeGame" width="400" height="400"></canvas>
+    <button id="restartButton">重新开始</button>
+    <script src="snake(javascript part).js"></script>
+</body>
+</html>
