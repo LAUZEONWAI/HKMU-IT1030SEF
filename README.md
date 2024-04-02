@@ -1,1 +1,1 @@
-This two files owner are belongs to [HKMU-IT1030SEF-Group24]
+All the files are belongs to [HKMU-IT1030SEF-Group24]
